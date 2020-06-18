@@ -3,8 +3,8 @@
 # Contents
 
 - [Contents](#contents)
-  -[Knowledge Distillation](#knowledge-distillation)
-  -[Network Compression](#network-compression)
+  - [Knowledge Distillation](#knowledge-distillation)
+  - [Network Compression](#network-compression)
 
 ## Knowledge Distillation
 
@@ -17,4 +17,4 @@
   - Main idea: From the title, we can know that this work is to replace multiplication operations in network with addition operations. How do they do this and how about the performance? Please read the original paper and code.
 
 - Multi-Dimensional Pruning: A Unified Framework for Model Compression. [[Paper Link]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Multi-Dimensional_Pruning_A_Unified_Framework_for_Model_Compression_CVPR_2020_paper.pdf)
-  - Main idea: They first build an over-parameterized network with average-pooling operations and gates. When using it, the gates can select some branches via their importances. Please read paper for details.
+  - Main idea: They first build an over-parameterized network with average-pooling operations and gates. When using it, the gates can select some branches via their importances. Please read the paper for details.
