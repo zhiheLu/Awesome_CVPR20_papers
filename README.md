@@ -1,4 +1,4 @@
-# Awsome_CVPR20_papers
+# Awesome_CVPR20_papers
 
 # Contents
 
